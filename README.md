@@ -12,6 +12,10 @@
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
 | 洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
 
+### **投影片講義**   
+
+1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](https://www.slideshare.net/tw_dsconf/ss-71780267)
+
 ### **資料分析實例**   
 
 1. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
