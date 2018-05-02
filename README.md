@@ -19,3 +19,4 @@
 ### **資料分析實例**   
 
 1. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
+2. [缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)](http://rpubs.com/james_datacatcher/svm)
