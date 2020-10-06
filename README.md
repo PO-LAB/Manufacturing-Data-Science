@@ -22,9 +22,9 @@
 
 ### **資料分析實例 (Python)**   
 
-1. [資料預處理(Data preprocessing)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/1.%20Data%20preprocessing.ipynb)
-2. [缺失值填補(Data imputation)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
-3. [資料視覺化(Data visualization)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
+1. [資料預處理(Data preprocessing)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/1.%20Data%20preprocessing.ipynb)
+2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
+3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
 
 ### **資料分析實例 (R)** 
 
