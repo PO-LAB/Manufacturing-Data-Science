@@ -10,7 +10,9 @@
 
 | 編輯者       |    暱稱         |                      LinkedIn                                                            |
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
-| 洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
+| 洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)
+| 沈宏穎       | Jerry           |  
+| 張智鈞       | Patrick         | 
 
 ### **投影片講義**   
 
