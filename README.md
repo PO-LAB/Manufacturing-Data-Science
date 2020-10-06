@@ -8,7 +8,7 @@
 
 ### **編輯群**    
 
-| 編輯者       |    暱稱         |                      LinkedIn                                                            |
+|  編輯者       |    暱稱         |                      LinkedIn                                                            |
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
 |  洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)
 | 沈宏穎       | Jerry           |  
