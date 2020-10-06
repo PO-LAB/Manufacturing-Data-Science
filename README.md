@@ -16,10 +16,13 @@
 
 1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](https://www.slideshare.net/tw_dsconf/ss-71780267)
 
-### **資料分析實例**   
+### **資料分析實例 (Python)**   
 
 1. [資料預處理(Data preprocessing)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/1.%20Data%20preprocessing.ipynb)
 2. [缺失值填補(Data imputation)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
 3. [資料視覺化(Data visualization)](https://github.com/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
-4. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
-5. [缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)](http://rpubs.com/james_datacatcher/svm)
+
+### **資料分析實例 (R)** 
+
+1. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
+2. [缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)](http://rpubs.com/james_datacatcher/svm)
