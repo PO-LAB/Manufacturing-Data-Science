@@ -3,7 +3,7 @@
 ### **內容概述**
 
 此網頁為台灣大學「製造數據科學」的課程網頁。
-主要為服務台大資訊管理學系與NTU商業資料分析學分學程 Business Analytics Program)，
+主要為服務台大資訊管理學系與商業資料分析學分學程 (NTUBusiness Analytics Program)，
 以Python程式實作教學，深入探討不同類型的製造資料，結合製造、統計、機器學習以及領域知識，做出最精闢的資料分析．
 
 授課老師為[李家岩](http://polab.im.ntu.edu.tw/Bio.html)老師  
@@ -12,7 +12,9 @@
 
 | 編輯者       |    暱稱         |                      LinkedIn                                                            |
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
-| 洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
+| 洪佑鑫       | Yu-Hsin Jeff  Hung            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
+| 沈宏穎       | Hung-Ying Shen            | [https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/](https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/)     
+| 張智鈞       | Chih-Chun Chang            | [https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/](https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/)     
 
 ### **投影片講義**   
 
