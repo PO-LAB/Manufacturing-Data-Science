@@ -2,21 +2,21 @@
 
 ### **內容概述**
 
-此網頁為製造資料科學的R程式實作教學，深入探討不同類型的製造資料，結合製造、統計、機器學習以及領域知識，做出最精闢的資料分析．
+此網頁為台灣大學「製造數據科學」的課程網頁。
+主要為服務台大資訊管理學系與NTU商業資料分析學分學程 Business Analytics Program)，
+以Python程式實作教學，深入探討不同類型的製造資料，結合製造、統計、機器學習以及領域知識，做出最精闢的資料分析．
 
-指導老師為[李家岩](http://polab.imis.ncku.edu.tw/Bio.html)老師  
+授課老師為[李家岩](http://polab.im.ntu.edu.tw/Bio.html)老師  
 
 ### **編輯群**    
 
-|  編輯者       |    暱稱         |                      LinkedIn                                                            |
+| 編輯者       |    暱稱         |                      LinkedIn                                                            |
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
-|  洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)
-| 沈宏穎       | Jerry           |  
-| 張智鈞       | Patrick         | 
+| 洪佑鑫       | Jeff            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
 
 ### **投影片講義**   
 
-1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](https://www.slideshare.net/tw_dsconf/ss-71780267)
+1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](http://polab.im.ntu.edu.tw/Talk/Data_Science_in_Manufacturing.pdf)
 
 ### **資料分析實例 (Python)**   
 
