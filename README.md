@@ -26,6 +26,17 @@
 2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
 3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
 
+
+
+
+### **:pushpin: Python**
+### **:triangular_flag_on_post: 其他介紹**
+|  更新時間       |                      文章                                                                                                      |
+| :-----------:  | :-----------------------------------------------------------------------------------------------------:                        |
+|  2019-11-14     | [可解釋性人工智慧 Explainable Artificial Intelligence(XAI)](https://github.com/ITingHung/Explainable-Artificial-Intelligence-XAI-) |
+|  2019-11-14     | [代價敏感 Cost Sensitive](https://github.com/wutsungyu/Cost-Sensitive)
+
+
 ### **資料分析實例 (R)** 
 
 1. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
