@@ -30,7 +30,7 @@
 6. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)]()
 7. [特徵萃取(Feature Extraction)：主成份分析(PCA)與獨立成分分析(ICA)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/07.%20feature%20extraction)
 8. [決策樹(Decision Tree)：分類與迴歸樹CART](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/08.%20decision%20tree)
-9. [類神經網路(Neural Networks)：倒傳遞類神經網路(Backpropagation)]
+9. [類神經網路(Neural Networks)：倒傳遞類神經網路(Backpropagation)]()
 10. [分群分析(Clustering)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/10.%20clustering)
 11. [支援向量機(Support Vector Machine)]()
 12. [集成算法(Ensemble Method)：隨機森林(Random Forest)與梯度推進(Gradient Boosting)]()
