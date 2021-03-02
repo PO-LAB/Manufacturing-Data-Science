@@ -25,13 +25,13 @@
 1. [資料預處理(Data preprocessing)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/1.%20Data%20preprocessing.ipynb)
 2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
 3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
-4. [邏輯斯迴歸(Logistic regression)]()
-5. [關聯式規則(Association Rule)]
-6. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)]
-7. [特徵萃取(Feature Extraction)：主成份分析(PCA)與獨立成分分析(ICA)]
-8. [決策樹(Decision Tree):分類與迴歸樹CART]
+4. [邏輯斯迴歸(Logistic regression)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/04.%20logistic)
+5. [關聯式規則(Association Rule)]()
+6. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)]()
+7. [特徵萃取(Feature Extraction)：主成份分析(PCA)與獨立成分分析(ICA)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/07.%20feature%20extraction)
+8. [決策樹(Decision Tree)：分類與迴歸樹CART](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/08.%20decision%20tree)
 9. [類神經網路(Neural Networks)：倒傳遞類神經網路(Backpropagation)]
-10. [分群分析(Clustering)]
+10. [分群分析(Clustering)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/10.%20clustering)
 11. [支援向量機(Support Vector Machine)]
 12. [集成算法(Ensemble Method)：隨機森林(Random Forest)與梯度推進(Gradient Boosting)]
 
