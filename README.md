@@ -32,9 +32,8 @@
 8. [決策樹(Decision Tree)：分類與迴歸樹CART](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/08.%20decision%20tree)
 9. [類神經網路(Neural Networks)：倒傳遞類神經網路(Backpropagation)]
 10. [分群分析(Clustering)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/10.%20clustering)
-11. [支援向量機(Support Vector Machine)]
-12. [集成算法(Ensemble Method)：隨機森林(Random Forest)與梯度推進(Gradient Boosting)]
-
+11. [支援向量機(Support Vector Machine)]()
+12. [集成算法(Ensemble Method)：隨機森林(Random Forest)與梯度推進(Gradient Boosting)]()
 
 
 
