@@ -25,7 +25,7 @@
 1. [資料預處理(Data preprocessing)](https://nbviewer.jupyter.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/01.%20Data%20Preprocessing/1.%20Data%20preprocessing.ipynb)
 2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/02.%20Data%20imputation/2.%20Data%20imputation.ipynb)
 3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/03.%20Data%20visualization/3.%20Data%20visualization.ipynb)
-4. [迴歸分析與變異數分析ANOVA](https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/04.%20Regression%20%26%20Anova/Regression%20%26%20Anova.ipynb)
+4. [迴歸分析與變異數分析ANOVA](https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/04.%20Regression%20%26%20ANOVA/Regression%20%26%20ANOVA.ipynb)
 5. [邏輯斯迴歸(Logistic regression)](https://github.com/PO-LAB/Manufacturing-Data-Science/tree/master/MDS/05.%20logistic)
 6. [關聯式規則(Association Rule)](https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/06.%20Association%20Rule/Association%20Rule.ipynb)
 7. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)](https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/07.%20Feature%20Selection/Feature%20Selection.ipynb)
