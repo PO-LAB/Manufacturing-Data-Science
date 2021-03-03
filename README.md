@@ -29,7 +29,7 @@
 5. [邏輯斯迴歸(Logistic regression)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/05.%20Logistic%20Regression/logistic_regression.html)
 6. [關聯式規則(Association Rule)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/06.%20Association%20Rule/Association%20Rule.html)
 7. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/07.%20Feature%20Selection/Feature%20Selection.html)
-8. [特徵萃取(Feature Extraction)：主成份分析(PCA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/PCA.html) [獨立成分分析(ICA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/ICA.html)
+8. [特徵萃取(Feature Extraction)：主成份分析(PCA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/PCA.html) 與 [獨立成分分析(ICA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/ICA.html)
 10. [決策樹(Decision Tree)：分類與迴歸樹CART](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/09.%20Decision%20Tree/Decision%20Tree.html)
 11. [類神經網路(Neural Networks)：倒傳遞類神經網路(Backpropagation)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/10.%20Neural%20Network/NN.html)
 12. [分群分析(Clustering)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/11.%20Clustering/clustering.html)
