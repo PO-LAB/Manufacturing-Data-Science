@@ -4,7 +4,7 @@
 
 此網頁為台灣大學「製造數據科學」的課程網頁。
 主要為服務台大資訊管理學系與商業資料分析學分學程 (NTUBusiness Analytics Program)，
-以Python程式實作教學，深入探討不同類型的製造資料，結合製造、統計、機器學習以及領域知識，做出最精闢的資料分析．
+以Python程式實作教學，深入探討不同類型的演算法模型與製造資料，結合製造、資訊、統計、機器學習以及領域知識，呈現出有趣的/有價值的數據分析結果．
 
 授課老師為[李家岩](http://polab.im.ntu.edu.tw/Bio.html)老師  
 
@@ -19,6 +19,8 @@
 ### **投影片講義**   
 
 1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](http://polab.im.ntu.edu.tw/Talk/Data_Science_in_Manufacturing.pdf)
+2. [預測之外：跨越預測與決策間的鴻溝(Beyond the Prediction)](http://polab.im.ntu.edu.tw/Talk/20201114_Beyond%20the%20Prediction.pdf)
+3. [數據科學思考與實證研究(Think Like a Data Scientist)](http://polab.im.ntu.edu.tw/Talk/20201113_Think%20Like%20a%20Data%20Scientist.pdf)
 
 ### **資料分析實例 (Python)**   
 
