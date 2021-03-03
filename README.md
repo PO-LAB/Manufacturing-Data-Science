@@ -16,7 +16,7 @@
 | 沈宏穎       | Hung-Ying Shen            | [https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/](https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/)     
 | 張智鈞       | Chih-Chun Chang            | [https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/](https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/)     
 
-### **投影片講義**   
+### **課外補充投影片講義** 
 
 1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](http://polab.im.ntu.edu.tw/Talk/Data_Science_in_Manufacturing.pdf)
 2. [預測之外：跨越預測與決策間的鴻溝(Beyond the Prediction)](http://polab.im.ntu.edu.tw/Talk/20201114_Beyond%20the%20Prediction.pdf)
