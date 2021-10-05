@@ -15,6 +15,8 @@
 | 洪佑鑫       | Yu-Hsin Jeff  Hung            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
 | 沈宏穎       | Hung-Ying Shen            | [https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/](https://www.linkedin.com/in/%E5%AE%8F%E7%A9%8E-%E6%B2%88-38443b1b1/)     
 | 張智鈞       | Chih-Chun Chang            | [https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/](https://www.linkedin.com/in/%E6%99%BA%E9%88%9E-%E5%BC%B5-5678b71a8/)     
+| 宋亭遠       | Ting-Yuan Song            | [https://www.linkedin.com/in/tingyuansong/](https://www.linkedin.com/in/tingyuansong/)     
+| 陳柏儒       | Bo-Ru Chen            | [https://www.linkedin.com/in/boru-chen/](https://www.linkedin.com/in/boru-chen/)    
 
 ### **課外補充投影片講義** 
 
