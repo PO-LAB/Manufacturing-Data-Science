@@ -26,12 +26,12 @@
 
 ### **資料分析實例 (Python)**   
 
-1. [資料預處理(Data preprocessing)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/01.%20Data%20Preprocessing/1.%20Data%20preprocessing.ipynb?flush_cache=true)
-2. [缺失值填補(Data imputation)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/02.%20Data%20imputation/2.%20Data%20imputation.ipynb?flush_cache=true)
-3. [資料視覺化(Data visualization)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/03.%20Data%20visualization/3.%20Data%20visualization.ipynb?flush_cache=true)
-4. [迴歸分析與變異數分析ANOVA](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/04.%20Regression%20%26%20ANOVA/Regression%20%26%20ANOVA.ipynb?flush_cache=true)
-5. [邏輯斯迴歸(Logistic regression)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/05.%20Logistic%20Regression/logistic_regression.ipynb?flush_cache=true)
-6. [關聯式規則(Association Rule)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/06.%20Association%20Rule/Association%20Rule.ipynb?flush_cache=true)
+1. [資料預處理(Data preprocessing)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/01.%20Data%20Preprocessing/1.%20Data%20preprocessing.ipynb?flush_cache=True)
+2. [缺失值填補(Data imputation)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/02.%20Data%20imputation/2.%20Data%20imputation.ipynb?flush_cache=True)
+3. [資料視覺化(Data visualization)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/03.%20Data%20visualization/3.%20Data%20visualization.ipynb?flush_cache=True)
+4. [迴歸分析與變異數分析ANOVA](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/04.%20Regression%20%26%20ANOVA/Regression%20%26%20ANOVA.ipynb?flush_cache=True)
+5. [邏輯斯迴歸(Logistic regression)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/05.%20Logistic%20Regression/logistic_regression.ipynb?flush_cache=True)
+6. [關聯式規則(Association Rule)](https://nbviewer.org/github/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/06.%20Association%20Rule/Association%20Rule.ipynb?flush_cache=True)
 7. [特徵選取(Feature Selection)：逐步迴歸(Stepwise Regression)與套索迴歸(LASSO)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/07.%20Feature%20Selection/Feature%20Selection.html)
 8. [特徵萃取(Feature Extraction)：主成份分析(PCA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/PCA.html) 與 [獨立成分分析(ICA)](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/08.%20Feature%20Extraction/ICA.html)
 10. [決策樹(Decision Tree)：分類與迴歸樹CART](https://htmlpreview.github.io/?https://github.com/PO-LAB/Manufacturing-Data-Science/blob/master/MDS/09.%20Decision%20Tree/Decision%20Tree.html)
